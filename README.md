@@ -1,6 +1,17 @@
 # Gen-AI-Architect
 Projects related to Gen AI architect Program
 
+### Project 1: Assignment: Real-Time Market Sentiment Analyzer Using LangChain Chains
+#### Objective
+Build a LangChain-powered pipeline (Chain) that:
+1. Accepts a company name as input.
+2. Extracts or generates its stock code.
+3. Uses News search tools in LangChain to fetch news about the company.
+4. Sends the news to an LLM (Google Gemini-2.0-flash) to generate a structured 
+sentiment profile.
+5. Outputs the result as a JSON object.
+6. Uses mlflow for tracing, prompt debugging, and monitoring
+
 ## Set up Instructions for Google Gemini key:
 1. Login to https://aistudio.google.com/prompts/new_chat
 2. Click on "Get API key"
