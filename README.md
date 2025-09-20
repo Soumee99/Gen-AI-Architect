@@ -9,16 +9,21 @@ Projects related to Gen AI architect Program
 
 ## Set up the ML FLow Tracking URL:
 1. Install MLflow.First, ensure you have MLflow installed in your environment.
+
    You can install it using pip:
+
+   ``` python
    !pip install mlflow
-2. Start the Tracking Server
+   ```
+   
+3. Start the Tracking Server
 Run the MLflow tracking server to establish a central location for your tracking data:
 mlflow server --host 127.0.0.1 --port 8080
 --host 127.0.0.1:
 Specifies the IP address to bind the server to (local machine in this case). 
 --port 8080
 : Specifies the port number the server will listen on.
-3. Set the Tracking URI
+4. Set the Tracking URI
 To make your MLflow client connect to the running tracking server, set the tracking URI in your Python code:
 import mlflow
 
