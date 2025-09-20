@@ -1,0 +1,12 @@
+{'company_name': 'Tesla Inc',
+ 'stock_code': 'TSLA',
+ 'newsdesc': 'Tesla opens Cybertruck orders in UAE; Jim Cramer notes Elon Musk’s significant stock purchase; Morgan Stanley backs Tesla stock on physical AI opportunity.',
+ 'sentiment': 'Positive',
+ 'people_names': ['Elon Musk', 'Jim Cramer'],
+ 'places_names': ['United Arab Emirates', 'UAE'],
+ 'other_companies_referred': ['Meta', 'Amazon', 'Netflix', 'Alphabet'],
+ 'related_industries': ['Automotive',
+  'Electric Vehicles',
+  'Artificial Intelligence'],
+ 'market_implications': "Positive indicators for Tesla, including expansion into new markets (UAE), CEO's confidence reflected in stock purchase, and analyst support based on AI potential. This suggests potential upward pressure on the stock price.",
+ 'confidence_score': 0.85}
