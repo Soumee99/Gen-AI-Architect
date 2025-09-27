@@ -12,6 +12,8 @@ Online learning platforms host thousands of courses across domains—learners of
 overwhelmed by choices. A personalized recommender that understands both course 
 content and individual learner profiles can boost engagement and completion rates by 
 suggesting the most relevant next steps.
+
+
 **2. Problem Statement**
 
 
